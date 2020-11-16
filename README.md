@@ -1,4 +1,27 @@
-# Getting Started with Create React App
+# React Template
+
+<p>This template created with <strong>C.R.A</strong> contains the following:</p>
+<ul>
+    <li>
+        <a href="https://create-react-app.dev/docs/adding-typescript/">Typescript</a>
+    </li>
+    <li>
+        <a href="https://create-react-app.dev/docs/adding-a-sass-stylesheet/">Scss</a>
+    </li>
+    <li>
+        <a href="https://fontawesome.com/how-to-use/on-the-web/using-with/react">Fontawesome</a>
+    </li>
+    <li>
+        <a href="https://loicmahieu.github.io/react-styled-flexboxgrid/demo/index.html">
+            Flexbox-grid
+        </a>
+    </li>
+    <li>
+        <a href="https://www.sitepoint.com/react-with-typescript-best-practices/">
+            Eslint & Prettier config
+        </a>
+    </li>
+</ul>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
